@@ -1,0 +1,12 @@
+{
+    "folder-color.pathColors": [
+        {
+            "folderPath": "S08E07-Github-Repos-lucilebgt\\src\\components\\repos\\repo\\index.js\\",
+            "color": "foldercolorizer.Buff"
+        },
+        {
+            "folderPath": "S08E07-Github-Repos-lucilebgt\\src\\components\\repos\\repoList\\index.js\\",
+            "color": "foldercolorizer.LimeGreen"
+        }
+    ]
+}
